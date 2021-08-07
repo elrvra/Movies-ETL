@@ -6,6 +6,17 @@ Amazing Prime loves the dataset and wants to keep it updated on a daily basis. B
 ## Deliverables for the Challenge
 
 Deliverable 1: Write an ETL function to read three data files
+
+![alt tag](https://github.com/elrvra/Movies-ETL/blob/main/Deliverable1_snapshots.png)
+
 Deliverable 2: Extract and Transform the Wikipedia Data
+
+![alt tag](https://github.com/elrvra/Movies-ETL/blob/main/Deliverable2_snapshots.png)
+
 Deliverable 3: Extract and Transform the Kaggle Data
+
+![alt tag](https://github.com/elrvra/Movies-ETL/blob/main/Deliverable3_snapshots.png)
+
 Deliverable 4: Create the Movie Database
+
+![alt tag](https://github.com/elrvra/Movies-ETL/blob/main/Deliverable4_snapshots.png)
